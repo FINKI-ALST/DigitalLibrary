@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\UXVlZW4gLSBVbmRlciBQcmVzc3VyZSAoT2ZmaWNpYWwgVmlkZW8p.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">10195162</Metadata>
+    <Metadata name="Source">Queen - Under Pressure (Official Video).mp3</Metadata>
+    <Metadata name="SourceFile">UXVlZW4gLSBVbmRlciBQcmVzc3VyZSAoT2ZmaWNpYWwgVmlkZW8p.mp3</Metadata>
+    <Metadata name="mp3">Queen - Under Pressure (Official Video)</Metadata>
+    <Metadata name="srcurl">UXVlZW4gLSBVbmRlciBQcmVzc3VyZSAoT2ZmaWNpYWwgVmlkZW8p.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">UXVlZW4gLSBVbmRlciBQcmVzc3VyZSAoT2ZmaWNpYWwgVmlkZW8p.mp3</Metadata>
+    <Metadata name="srclinkFile">UXVlZW4gLSBVbmRlciBQcmVzc3VyZSAoT2ZmaWNpYWwgVmlkZW8p.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="Title">Queen - Under Pressure (Official Video)</Metadata>
+    <Metadata name="Identifier">HASHd7ef71832b132d1f9b9333</Metadata>
+    <Metadata name="lastmodified">1620646223</Metadata>
+    <Metadata name="lastmodifieddate">20210510</Metadata>
+    <Metadata name="oailastmodified">1620648095</Metadata>
+    <Metadata name="oailastmodifieddate">20210510</Metadata>
+    <Metadata name="assocfilepath">HASHd7ef.dir</Metadata>
+    <Metadata name="gsdlassocfile">UXVlZW4gLSBVbmRlciBQcmVzc3VyZSAoT2ZmaWNpYWwgVmlkZW8p.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

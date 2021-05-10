@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\UXVlZW4gLSBUaGUgU2hvdyBNdXN0IEdvIE9uIChPZmZpY2lhbCBWaWRlbyk=.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">10634201</Metadata>
+    <Metadata name="Source">Queen - The Show Must Go On (Official Video).mp3</Metadata>
+    <Metadata name="SourceFile">UXVlZW4gLSBUaGUgU2hvdyBNdXN0IEdvIE9uIChPZmZpY2lhbCBWaWRlbyk=.mp3</Metadata>
+    <Metadata name="mp3">Queen - The Show Must Go On (Official Video)</Metadata>
+    <Metadata name="srcurl">UXVlZW4gLSBUaGUgU2hvdyBNdXN0IEdvIE9uIChPZmZpY2lhbCBWaWRlbyk=.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">UXVlZW4gLSBUaGUgU2hvdyBNdXN0IEdvIE9uIChPZmZpY2lhbCBWaWRlbyk=.mp3</Metadata>
+    <Metadata name="srclinkFile">UXVlZW4gLSBUaGUgU2hvdyBNdXN0IEdvIE9uIChPZmZpY2lhbCBWaWRlbyk=.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="Title">Queen - The Show Must Go On (Official Video)</Metadata>
+    <Metadata name="Identifier">HASH0108bbd9c3982422cfe6e658</Metadata>
+    <Metadata name="lastmodified">1620646205</Metadata>
+    <Metadata name="lastmodifieddate">20210510</Metadata>
+    <Metadata name="oailastmodified">1620648095</Metadata>
+    <Metadata name="oailastmodifieddate">20210510</Metadata>
+    <Metadata name="assocfilepath">HASH0108.dir</Metadata>
+    <Metadata name="gsdlassocfile">UXVlZW4gLSBUaGUgU2hvdyBNdXN0IEdvIE9uIChPZmZpY2lhbCBWaWRlbyk=.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

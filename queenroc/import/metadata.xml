@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+	<FileSet>
+		<FileName>1\.jpg</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Don't Stop Me Now</Metadata>
+			<Metadata mode="accumulate" name="dc.Source">https://www.youtube.com/watch?v=HgzGwKwLmgM</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>3\.jpg</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Bohemian Rhapsody</Metadata>
+			<Metadata mode="accumulate" name="dc.Source">https://www.youtube.com/watch?v=fJ9rUzIMcZQ</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>4\.jpg</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Love Of My Life</Metadata>
+			<Metadata mode="accumulate" name="dc.Source">https://www.youtube.com/watch?v=v3xwCkhmies</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>5\.jpg</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Show Must Go On</Metadata>
+			<Metadata mode="accumulate" name="dc.Source">https://www.youtube.com/watch?v=t99KH0TR-J4</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>2\.jpg</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Under Pressure</Metadata>
+			<Metadata mode="accumulate" name="dc.Source">https://www.youtube.com/watch?v=a01QQZyl-_I</Metadata>
+		</Description>
+	</FileSet>
+</DirectoryMetadata>

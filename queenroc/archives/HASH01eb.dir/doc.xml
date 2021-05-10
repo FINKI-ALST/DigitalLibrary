@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\UXVlZW4gLSBEb24ndCBTdG9wIE1lIE5vdyAoT2ZmaWNpYWwgVmlkZW8p.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">8686147</Metadata>
+    <Metadata name="Source">Queen - Don't Stop Me Now (Official Video).mp3</Metadata>
+    <Metadata name="SourceFile">UXVlZW4gLSBEb24ndCBTdG9wIE1lIE5vdyAoT2ZmaWNpYWwgVmlkZW8p.mp3</Metadata>
+    <Metadata name="mp3">Queen - Don't Stop Me Now (Official Video)</Metadata>
+    <Metadata name="srcurl">UXVlZW4gLSBEb24ndCBTdG9wIE1lIE5vdyAoT2ZmaWNpYWwgVmlkZW8p.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">UXVlZW4gLSBEb24ndCBTdG9wIE1lIE5vdyAoT2ZmaWNpYWwgVmlkZW8p.mp3</Metadata>
+    <Metadata name="srclinkFile">UXVlZW4gLSBEb24ndCBTdG9wIE1lIE5vdyAoT2ZmaWNpYWwgVmlkZW8p.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="Title">Queen - Don't Stop Me Now (Official Video)</Metadata>
+    <Metadata name="Identifier">HASH01eb1acb247fe145b1fb8c9e</Metadata>
+    <Metadata name="lastmodified">1620646224</Metadata>
+    <Metadata name="lastmodifieddate">20210510</Metadata>
+    <Metadata name="oailastmodified">1620648094</Metadata>
+    <Metadata name="oailastmodifieddate">20210510</Metadata>
+    <Metadata name="assocfilepath">HASH01eb.dir</Metadata>
+    <Metadata name="gsdlassocfile">UXVlZW4gLSBEb24ndCBTdG9wIE1lIE5vdyAoT2ZmaWNpYWwgVmlkZW8p.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

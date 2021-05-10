@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\5.jpg</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">ImagePlugin</Metadata>
+    <Metadata name="Image">5.jpg</Metadata>
+    <Metadata name="OrigSource">5.jpg</Metadata>
+    <Metadata name="Source">5.jpg</Metadata>
+    <Metadata name="SourceFile">5.jpg</Metadata>
+    <Metadata name="FileFormat">jpeg</Metadata>
+    <Metadata name="FileSize">145666</Metadata>
+    <Metadata name="ImageType">JPEG</Metadata>
+    <Metadata name="ImageWidth">900</Metadata>
+    <Metadata name="ImageHeight">900</Metadata>
+    <Metadata name="ImageSize">142KB</Metadata>
+    <Metadata name="srclink_file">5.jpg</Metadata>
+    <Metadata name="srclinkFile">5.jpg</Metadata>
+    <Metadata name="srcicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot; width=&quot;[ImageWidth]&quot; height=&quot;[ImageHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbType">gif</Metadata>
+    <Metadata name="Thumb">5_thumb.gif</Metadata>
+    <Metadata name="thumbicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Thumb]&quot; alt=&quot;[Thumb]&quot; width=&quot;[ThumbWidth]&quot; height=&quot;[ThumbHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbWidth">100</Metadata>
+    <Metadata name="ThumbHeight">100</Metadata>
+    <Metadata name="ScreenType">jpeg</Metadata>
+    <Metadata name="Screen">5_screen.jpeg</Metadata>
+    <Metadata name="screenicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Screen]&quot; width=[ScreenWidth] height=[ScreenHeight]&gt;</Metadata>
+    <Metadata name="ScreenWidth">500</Metadata>
+    <Metadata name="ScreenHeight">500</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Source">https://www.youtube.com/watch?v=t99KH0TR-J4</Metadata>
+    <Metadata name="dc.Title">Show Must Go On</Metadata>
+    <Metadata name="ex.Composite.ImageSize">900 900</Metadata>
+    <Metadata name="ex.Composite.Megapixels">0.81</Metadata>
+    <Metadata name="ex.ExifTool.ExifToolVersion">12.19</Metadata>
+    <Metadata name="ex.File.BitsPerSample">8</Metadata>
+    <Metadata name="ex.File.ColorComponents">3</Metadata>
+    <Metadata name="ex.File.Directory">C:\Users\x\Greenstone3\web\sites\localsite\collect\queenroc\import</Metadata>
+    <Metadata name="ex.File.EncodingProcess">0</Metadata>
+    <Metadata name="ex.File.FileAccessDate">2021:05:10 14:01:30+02:00</Metadata>
+    <Metadata name="ex.File.FileCreateDate">2021:05:10 13:31:37+02:00</Metadata>
+    <Metadata name="ex.File.FileModifyDate">2021:05:10 13:31:37+02:00</Metadata>
+    <Metadata name="ex.File.FileName">5.jpg</Metadata>
+    <Metadata name="ex.File.FilePermissions">100666</Metadata>
+    <Metadata name="ex.File.FileSize">145666</Metadata>
+    <Metadata name="ex.File.FileType">JPEG</Metadata>
+    <Metadata name="ex.File.FileTypeExtension">JPG</Metadata>
+    <Metadata name="ex.File.ImageHeight">900</Metadata>
+    <Metadata name="ex.File.ImageWidth">900</Metadata>
+    <Metadata name="ex.File.MIMEType">image/jpeg</Metadata>
+    <Metadata name="ex.File.YCbCrSubSampling">1 1</Metadata>
+    <Metadata name="ex.ICC_Profile.AToB0">&amp;#40;Binary data 29712 bytes&amp;#41;</Metadata>
+    <Metadata name="ex.ICC_Profile.AToB1">&amp;#40;Binary data 436 bytes&amp;#41;</Metadata>
+    <Metadata name="ex.ICC_Profile.BToA0">&amp;#40;Binary data 29748 bytes&amp;#41;</Metadata>
+    <Metadata name="ex.ICC_Profile.BToA1">&amp;#40;Binary data 508 bytes&amp;#41;</Metadata>
+    <Metadata name="ex.ICC_Profile.CMMFlags">0</Metadata>
+    <Metadata name="ex.ICC_Profile.ChromaticAdaptation">1.04802 0.02301 -0.05017 0.02972 0.99034 -0.01707 -0.00923 0.01028 0.75214</Metadata>
+    <Metadata name="ex.ICC_Profile.ColorSpaceData">RGB</Metadata>
+    <Metadata name="ex.ICC_Profile.ConnectionSpaceIlluminant">0.9642 1 0.82491</Metadata>
+    <Metadata name="ex.ICC_Profile.DeviceAttributes">0 0</Metadata>
+    <Metadata name="ex.ICC_Profile.MediaWhitePoint">0.9642 1 0.82491</Metadata>
+    <Metadata name="ex.ICC_Profile.PerceptualRenderingIntentGamut">prmg</Metadata>
+    <Metadata name="ex.ICC_Profile.ProfileClass">spac</Metadata>
+    <Metadata name="ex.ICC_Profile.ProfileConnectionSpace">Lab</Metadata>
+    <Metadata name="ex.ICC_Profile.ProfileCopyright">Copyright 2007 International Color Consortium</Metadata>
+    <Metadata name="ex.ICC_Profile.ProfileDateTime">2007:07:25 00:05:37</Metadata>
+    <Metadata name="ex.ICC_Profile.ProfileDescription">sRGB v4 ICC preference perceptual intent beta</Metadata>
+    <Metadata name="ex.ICC_Profile.ProfileFileSignature">acsp</Metadata>
+    <Metadata name="ex.ICC_Profile.ProfileID">52 86 42 191 153 76 205 6 109 44 87 33 208 214 140 93</Metadata>
+    <Metadata name="ex.ICC_Profile.ProfileVersion">1056</Metadata>
+    <Metadata name="ex.ICC_Profile.RenderingIntent">0</Metadata>
+    <Metadata name="ex.JFIF.JFIFVersion">1 1</Metadata>
+    <Metadata name="ex.JFIF.ResolutionUnit">1</Metadata>
+    <Metadata name="ex.JFIF.XResolution">300</Metadata>
+    <Metadata name="ex.JFIF.YResolution">300</Metadata>
+    <Metadata name="Title">5</Metadata>
+    <Metadata name="Identifier">HASH0134ef1d3d439734ef1d3d43</Metadata>
+    <Metadata name="lastmodified">1620646297</Metadata>
+    <Metadata name="lastmodifieddate">20210510</Metadata>
+    <Metadata name="oailastmodified">1620648094</Metadata>
+    <Metadata name="oailastmodifieddate">20210510</Metadata>
+    <Metadata name="assocfilepath">HASH0134.dir</Metadata>
+    <Metadata name="gsdlassocfile">5.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">5_thumb.gif:image/gif:</Metadata>
+    <Metadata name="gsdlassocfile">5_screen.jpeg:image/jpeg:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

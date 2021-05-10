@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\UXVlZW4gLSBMb3ZlIE9mIE15IExpZmUgKEx5cmljcyk=.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">8796891</Metadata>
+    <Metadata name="Source">Queen - Love Of My Life (Lyrics).mp3</Metadata>
+    <Metadata name="SourceFile">UXVlZW4gLSBMb3ZlIE9mIE15IExpZmUgKEx5cmljcyk=.mp3</Metadata>
+    <Metadata name="mp3">Queen - Love Of My Life (Lyrics)</Metadata>
+    <Metadata name="srcurl">UXVlZW4gLSBMb3ZlIE9mIE15IExpZmUgKEx5cmljcyk=.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">UXVlZW4gLSBMb3ZlIE9mIE15IExpZmUgKEx5cmljcyk=.mp3</Metadata>
+    <Metadata name="srclinkFile">UXVlZW4gLSBMb3ZlIE9mIE15IExpZmUgKEx5cmljcyk=.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="Title">Queen - Love Of My Life (Lyrics)</Metadata>
+    <Metadata name="Identifier">HASH01eb452df573e174e1b58294</Metadata>
+    <Metadata name="lastmodified">1620646223</Metadata>
+    <Metadata name="lastmodifieddate">20210510</Metadata>
+    <Metadata name="oailastmodified">1620648095</Metadata>
+    <Metadata name="oailastmodifieddate">20210510</Metadata>
+    <Metadata name="assocfilepath">HASH01eb/452df573.dir</Metadata>
+    <Metadata name="gsdlassocfile">UXVlZW4gLSBMb3ZlIE9mIE15IExpZmUgKEx5cmljcyk=.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

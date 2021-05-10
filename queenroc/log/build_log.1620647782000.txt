@@ -1,0 +1,23 @@
+s
+************** Import  Started **************
+The file metadata.xml is being processed by MetadataXMLPlugin.
+The file 1.jpg is being processed by ImagePlugin.
+The file 2.jpg is being processed by ImagePlugin.
+The file 3.jpg is being processed by ImagePlugin.
+The file 4.jpg is being processed by ImagePlugin.
+The file 5.jpg is being processed by ImagePlugin.
+The file Queen - Don't Stop Me Now (Official Video).mp3 is being processed by MP3Plugin.
+The file Queen - Love Of My Life (Lyrics).mp3 is being processed by MP3Plugin.
+The file Queen - The Show Must Go On (Official Video).mp3 is being processed by MP3Plugin.
+The file Queen - Under Pressure (Official Video).mp3 is being processed by MP3Plugin.
+The file Queen � Bohemian Rhapsody (Official Video Remastered).mp3 is being processed by MP3Plugin.
+************** Import Finished **************
+10 documents were considered for processing:
+    10 documents were processed and included in the collection.
+
+************** Build  Started **************
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Source;...
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Source;...
+Creating information database...
+Creating auxiliary files and tidying up...
+************** Build Finished **************
